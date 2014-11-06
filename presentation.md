@@ -111,9 +111,9 @@ Making Awesome Things
 # Projects
 
 * XO
+* Sky Time
 * Fed Msg
 * RHoK The Hood
-* Sky Time
 * Linux Kernel
 
 ---
