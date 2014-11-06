@@ -63,13 +63,58 @@ Making Awesome Things
 
 # Connections
 
+* Hudl
+* Google
+* Facebook
+* Vimeo
+* Red Hat
+* Mozilla
+* And much much more.
+
 ---
 
 # Events
 
+* Hack Upstate
+* PyCon
+* NASA Space Apps Challenge
+
+---
+
+# Local Events
+
+* Software Freedom Day
+* Election Night Hackathon
+* Home Stretch Hackathon
+* AT&T Civic App Challenge
+
+---
+
+# Local Events (cont.)
+
+* National Day of Civic Hacking
+* Bar Camp
+* RMSE Demo
+* POSSE
+
+---
+
+# Local Events (cont.) ...
+
+* American Greetings Hackathon
+* TEDx Buffalo
+* ARM Developer Day
+* And more to come...
+
 ---
 
 # Projects
+
+* XO
+* Fed Msg
+* RHoK The Hood
+* Sky Time
+* Linux Kernel
 
 ---
 
