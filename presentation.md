@@ -12,12 +12,6 @@
 
 ---
 
-# How Do We Fix It?
-
-## Communication
-
----
-
 # What is FOSSBox?
 
 
@@ -32,6 +26,12 @@
 # Goals
 
 <img src="/FOSSBOX+MAGIC=<3.png" style="border:none; box-shadow: none;" width="75%"></img>
+
+---
+
+# How Do We Fix It?
+
+## Communication
 
 ---
 
