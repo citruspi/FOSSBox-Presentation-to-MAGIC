@@ -32,7 +32,7 @@
 
 # Goals
 
-(FOSSBOX LOGO) + (MAGIC LOGO) = (HEART)
+<img src="/FOSSBOX+MAGIC=<3.png" style="border:none; box-shadow: none;" width="75%"></img>
 
 ---
 
