@@ -20,7 +20,6 @@
 
 # What is FOSSBox?
 
-(FOSSBOXIMAGEGOESHERE)
 
 ---
 
