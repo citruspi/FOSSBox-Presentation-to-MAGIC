@@ -6,4 +6,4 @@ dependencies:
 
 run:
 
-	reveal-md presentation.md
+	reveal-md --theme solarized presentation.md
