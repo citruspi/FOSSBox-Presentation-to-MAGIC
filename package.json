@@ -1,0 +1,23 @@
+{
+  "name": "FOSSBox-Presentation-to-MAGIC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "reveal-md": "^0.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citruspi/FOSSBox-Presentation-to-MAGIC.git"
+  },
+  "author": "",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/citruspi/FOSSBox-Presentation-to-MAGIC/issues"
+  },
+  "homepage": "https://github.com/citruspi/FOSSBox-Presentation-to-MAGIC"
+}
