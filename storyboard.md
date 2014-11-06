@@ -1,0 +1,23 @@
+- Hello
+- Why Are We Here?
+    - We Failed
+- The Fix?
+    - Communication
+- What is FOSSBox?
+    - !Room, Community
+- Goals
+    - FOSSBox + MAGIC = \<3
+    - Make Peace, Not War
+- Wants
+    - Communication
+        - Mailing List
+            - Complaints/Notifications should go to FOSSBox, !Remy/SJ
+        - Regular Meetings with MAGIC Staff
+    - Swipe Access
+- Working With MAGIC
+    - VISION -> (FOSSBox == MAGIC)
+    - Connections
+    - Events
+    - Projects
+- Thank You!
+- Questions?
