@@ -42,9 +42,9 @@
 
 # Communication
 
-## Mailing List
+* Mailing List
 
-## Regular "All Hands" Meetings
+* Regular "All Hands" Meetings
 
 ---
 
