@@ -14,7 +14,6 @@
 
 # What is FOSSBox?
 
-
 ---
 
 # It's Not a Room,
@@ -78,6 +77,7 @@ Making Awesome Things
 * Hack Upstate
 * PyCon
 * NASA Space Apps Challenge
+* FLOCK
 
 ---
 
@@ -94,8 +94,8 @@ Making Awesome Things
 
 * National Day of Civic Hacking
 * Bar Camp
-* RMSE Demo
-* POSSE
+* RMSC Demo
+* Professors for Open Source Software Education
 
 ---
 
@@ -111,9 +111,9 @@ Making Awesome Things
 # Projects
 
 * XO
+* Sky Time
 * Fed Msg
 * RHoK The Hood
-* Sky Time
 * Linux Kernel
 
 ---
