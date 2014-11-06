@@ -20,7 +20,6 @@
 
 # What is FOSSBox?
 
-
 ---
 
 # It's Not a Room,
@@ -78,6 +77,7 @@ Making Awesome Things
 * Hack Upstate
 * PyCon
 * NASA Space Apps Challenge
+* FLOCK
 
 ---
 
