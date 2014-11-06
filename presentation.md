@@ -99,7 +99,7 @@ Making Awesome Things
 
 ---
 
-# Local Events (cont.) ...
+# Local Events (cont.)
 
 * American Greetings Hackathon
 * TEDx Buffalo
