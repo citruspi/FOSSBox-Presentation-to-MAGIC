@@ -112,9 +112,9 @@ Making Awesome Things
 
 * XO
 * Sky Time
-* Fed Msg
-* RHoK The Hood
 * Linux Kernel
+
+Fed Msg, RHoK The Hood, HowToFOSS, monroe-elections, Dash, MINX, gourciferous, Piglet,sugar-badges, and more.
 
 ---
 
