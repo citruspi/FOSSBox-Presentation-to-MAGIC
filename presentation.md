@@ -94,8 +94,8 @@ Making Awesome Things
 
 * National Day of Civic Hacking
 * Bar Camp
-* RMSE Demo
-* POSSE
+* RMSC Demo
+* Professors for Open Source Software Education
 
 ---
 
