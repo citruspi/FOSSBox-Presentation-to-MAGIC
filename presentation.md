@@ -1,6 +1,6 @@
 # FOSSBox
 
-(@citruspi && @liam-middlebrook)
+(@citruspi && @liam-middlebrook && @nolski)
 
 ---
 
