@@ -1,10 +1,6 @@
 # FOSSBox
 
-## Authors
-
-* Liam Middlebrook
-
-* Mihir Singh
+(@citruspi && @liam-middlebrook)
 
 ---
 
